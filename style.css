@@ -1,0 +1,13 @@
+.artist-list {
+	list-style: none;
+}
+
+.artist-list > li {
+	float: left;
+	margin-left: 3px;
+}
+
+.artist-image {
+	height: 250px;
+	width: 250px;
+}
